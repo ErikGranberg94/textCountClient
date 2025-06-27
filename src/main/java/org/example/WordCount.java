@@ -2,7 +2,6 @@ package org.example;
 
 import java.util.*;
 import java.util.concurrent.locks.ReentrantLock;
-import java.util.stream.Collectors;
 
 public class WordCount {
     private final Map<String, Integer> wordCount;
