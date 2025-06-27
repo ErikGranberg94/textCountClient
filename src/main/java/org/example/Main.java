@@ -35,4 +35,3 @@ public class Main {
         wordCount.getCount(5);
     }
 }
-//TODO write test and make it possible to compile into runnable jar
